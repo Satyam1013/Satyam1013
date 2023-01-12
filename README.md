@@ -2,10 +2,9 @@
     <img width="33%" src="https://media.giphy.com/media/JyxdzuAaxZnPH7TyRd/giphy-downsized-large.gif">
     </p>
     
-<p align="center">
-
+<h1 align="center">
 Hi 👋, I am Satyam Banwale
-</p>
+</h1>
 
 <p align="right" width="100%">
     <img width="33%" src="https://i.stack.imgur.com/RJj4x.png">
