@@ -1,4 +1,4 @@
-(https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+[(https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)](https://media3.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=790b76114cf94dd6f26486aac756a445cf810460e86d8c5d&rid=giphy.gif&ct=g)
 
 Hi 👋, I am Satyam Banwale<br>A Passionate MERN Stack Developer
 
