@@ -34,11 +34,27 @@ Hi 👋, I'm Satyam Banwale
     <img width="100%" height='300px' src="https://github-readme-streak-stats.herokuapp.com/?user=Satyam1013&theme=dark&hide_border=false">
     </p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Satyam1013&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=@SatyamBanwale3)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+<h1 align="center">
+     🏆 GitHub Trophies
+  </h1>
+  
+  <br/>
+  
+  <p align="center" width="100%">
+    <img width="100%" height='300px' src="https://github-profile-trophy.vercel.app/?username=Satyam1013&theme=radical&no-frame=false&no-bg=true&margin-w=4">
+    </p>
+    
+    <h1 align="center">
+    🐦 Latest Tweet
+  </h1>
+  
+  <br/>
+  
+  <p align="center" width="100%">
+    <img width="100%" height='300px' src="https://gtce.itsvg.in/api?username=@SatyamBanwale3)](https://github.com/VishwaGauravIn/github-twitter-card-embed">
+    </p>
+    
+    
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
