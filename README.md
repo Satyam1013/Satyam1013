@@ -47,11 +47,9 @@ Hi 👋, I'm Satyam Banwale
 <h1 align="center">
     ✍️ Random Dev Quote
   </h1>
-    
-    <br/>
 
   <p align="center" width="100%">
-    <img width="50%" height='150px' src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+    <img width="70%" height='150px' src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
     </p>
 
 
