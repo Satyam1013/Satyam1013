@@ -37,23 +37,14 @@ Hi 👋, I'm Satyam Banwale
 <h1 align="center">
      🏆 GitHub Trophies
   </h1>
+  
 
   <p align="center" width="100%">
     <img width="100%" height='150px' src="https://github-profile-trophy.vercel.app/?username=Satyam1013&theme=radical&no-frame=false&no-bg=true&margin-w=4">
     </p>
     
-    <h1 align="center">
-    🐦 Latest Tweet
-  </h1>
-  
-  <br/>
-  
-  <p align="center" width="100%">
-    <img width="100%" height='300px' src="https://github.com/VishwaGauravIn/github-twitter-card-embed">
-    </p>
+<p align="center">
     
-    
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
