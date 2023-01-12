@@ -1,7 +1,7 @@
 <p align="center" width="100%">
     <img width="33%" src="https://media.giphy.com/media/JyxdzuAaxZnPH7TyRd/giphy-downsized-large.gif">
-
     </p>
+    
 <p align="center">
 
 Hi 👋, I am Satyam Banwale
