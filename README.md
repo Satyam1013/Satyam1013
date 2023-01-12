@@ -3,12 +3,9 @@
     </p>
     
 <h1 align="center">
-Hi 👋, I am Satyam Banwale
+Hi 👋, I'm Satyam Banwale
 </h1>
-
-<p align="right" width="100%">
-    <img width="33%" src="https://i.stack.imgur.com/RJj4x.png">
-
+<p align="center">
 <br>A Passionate MERN Stack Developer
 
 [![](https://visitcount.itsvg.in/api?id=Satyam1013&icon=0&color=0)](https://visitcount.itsvg.in)
