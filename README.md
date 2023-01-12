@@ -5,9 +5,8 @@
 <h1 align="center">
 Hi 👋, I'm Satyam Banwale
 </h1>
-<p align="center" font-family='sans'>
+<p align="center" font-family='sans' font-weigth='bolder'>
 <br>A Passionate MERN Stack Developer
-
 [![](https://visitcount.itsvg.in/api?id=Satyam1013&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
