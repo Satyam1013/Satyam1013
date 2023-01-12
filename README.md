@@ -31,16 +31,15 @@ Hi 👋, I'm Satyam Banwale
 <br/>
     
 <p align="center" width="100%">
-    <img width="100%" height='300px' src="https://github-readme-streak-stats.herokuapp.com/?user=Satyam1013&theme=dark&hide_border=false">
+    <img width="100%" height='200px' src="https://github-readme-streak-stats.herokuapp.com/?user=Satyam1013&theme=dark&hide_border=false">
     </p>
 
 <h1 align="center">
      🏆 GitHub Trophies
   </h1>
-  
 
   <p align="center" width="100%">
-    <img width="100%" height='300px' src="https://github-profile-trophy.vercel.app/?username=Satyam1013&theme=radical&no-frame=false&no-bg=true&margin-w=4">
+    <img width="100%" height='200px' src="https://github-profile-trophy.vercel.app/?username=Satyam1013&theme=radical&no-frame=false&no-bg=true&margin-w=4">
     </p>
     
     <h1 align="center">
