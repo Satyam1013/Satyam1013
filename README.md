@@ -1,4 +1,6 @@
+<p align="center" width="100%">
 ![](https://media.giphy.com/media/JyxdzuAaxZnPH7TyRd/giphy-downsized-large.gif)
+    </p>
 <p align="center">
 
 Hi 👋, I am Satyam Banwale
@@ -6,7 +8,7 @@ Hi 👋, I am Satyam Banwale
 
 <p align="right" width="100%">
     <img width="33%" src="https://i.stack.imgur.com/RJj4x.png">
-</p>
+
 <br>A Passionate MERN Stack Developer
 
 [![](https://visitcount.itsvg.in/api?id=Satyam1013&icon=0&color=0)](https://visitcount.itsvg.in)
