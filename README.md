@@ -1,4 +1,4 @@
-https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif
+[https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif](https://media.giphy.com/media/JyxdzuAaxZnPH7TyRd/giphy-downsized-large.gif)
 
 Hi 👋, I am Satyam Banwale<br>A Passionate MERN Stack Developer
 
