@@ -22,10 +22,9 @@ Hi 👋, I'm Satyam Banwale
 
 <h1 align="center">
      📊 GitHub Stats:
-    </h1>
+  
 
 <p align="center" width="100%">
-    
     <img width="100%" height='300px' src="https://github-readme-streak-stats.herokuapp.com/?user=Satyam1013&theme=dark&hide_border=false">
     </p>
 
