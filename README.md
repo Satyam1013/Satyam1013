@@ -8,7 +8,7 @@ Hi 👋, I'm Satyam Banwale
 
 <h4 align="center">
 
- **A Passionate MERN Stack Developer**
+ **A Passionate Software Developer**
     
    
   
