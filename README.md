@@ -4,11 +4,9 @@
 
 <h1 align="center">👋 Hey there, I'm Satyam Banwale!</h1>
 
-<h3 align="center">🚀 Passionate Software Developer | 1.6+ Years Experience | Full Stack Engineer </h3>
+<h3 align="center">🚀 Full Stack Developer | MERN & T3 Stack Expert | Scalable Web Solutions Specialist | Real-Time Analytics </h3>
 
-<p align="center">
-<a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Satyam1013&icon=0&color=0" alt="profile views"/></a>
-</p>
+[![](https://visitcount.itsvg.in/api?id=Satyam1013&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 
