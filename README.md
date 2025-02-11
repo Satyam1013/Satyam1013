@@ -49,10 +49,10 @@
 ---
 
 ## 📊 Experience:
-- ✅ **1.6+ years** of professional experience in **Full Stack Web Development.**
+- ✅ **2+ years** of professional experience in **Full Stack Web Development.**
 - ✅ Currently working at **Prodios Labs** contributing to **Uttarakhand Government Projects.**
 - ✅ Skilled in **Frontend, Backend, Databases, and Cloud Deployment.**
-- ✅ Freelancing for **1 year**, delivering diverse technical solutions. 
+- ✅ Freelancing for **3 years**, delivering diverse technical solutions. 
 
 ---
 
